@@ -4,8 +4,8 @@ import "./style.css";
 function Footer() {
   return (
     <footer className="footer">
-      <div className="bottom">
-        Clicky Game! <img alt="react" src="assets/images/react.svg" />
+      <div className="footer-logo">
+        Github
       </div>
     </footer>
   );

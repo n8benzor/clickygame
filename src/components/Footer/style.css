@@ -1,25 +1,11 @@
-.footer {
-  background: 
-  #6956AF;
-  height: 100px;
-  position: relative;
-  color: white;
-  overflow: auto;
-}
-
-.footer > .bottom {
-  position: absolute;
+.footer-logo {
+  position: fixed;
   bottom: 0;
   left: 0;
   right: 0;
-  background:#5138A1;
-  padding: 8px;
-  font-weight: 600;
+  background: #2e6ca0;
+  padding: 1em;
+  text-align: center;
 }
 
-.footer > .bottom > img {
-  width: 20px;
-  position: relative;
-  top: 3px;
-  left: 2px;
-}
+
