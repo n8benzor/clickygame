@@ -3,9 +3,17 @@
   bottom: 0;
   left: 0;
   right: 0;
-  background: #2e6ca0;
   padding: 1em;
   text-align: center;
+  background: white;
+  border-top: 1px solid black;
 }
 
+ion-icon {
+  font-size: 42px;
+}
+
+a { 
+  color: black;
+}
 

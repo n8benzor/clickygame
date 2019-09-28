@@ -5,11 +5,10 @@
   width: 150px;
   margin: 8px 25px;
   cursor: pointer;
-  border: 1ps solid black;
 }
 
 .click-item:hover {
-  border: 1px solid limegreen;
+  border: 2px solid limegreen;
 }
 
 @media (max-width: 750px) {

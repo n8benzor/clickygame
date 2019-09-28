@@ -5,7 +5,8 @@ function Footer() {
   return (
     <footer className="footer">
       <div className="footer-logo">
-        Github
+        <a href="https://github.com/n8benzor/clickygame">
+      <ion-icon name="logo-github"></ion-icon></a>
       </div>
     </footer>
   );
