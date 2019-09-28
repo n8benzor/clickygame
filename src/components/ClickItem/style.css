@@ -5,6 +5,7 @@
   width: 150px;
   margin: 8px 25px;
   cursor: pointer;
+  border: 1px solid black;
 }
 
 .click-item:hover {
